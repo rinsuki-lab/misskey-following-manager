@@ -9,6 +9,7 @@
         "curly": false,
         "no-console": false,
         "no-var-keyword": false,
-        "object-literal-sort-keys": false
+        "object-literal-sort-keys": false,
+        "no-empty-interface": false
     }
 }
